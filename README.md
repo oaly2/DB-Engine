@@ -2,7 +2,6 @@
 *A Java-based scalable database engine for efficient data access*
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Project](https://img.shields.io/badge/Project-Type%3A%20Academic-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ## 📌 Project Overview
