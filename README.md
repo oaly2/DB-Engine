@@ -4,11 +4,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-## 📌 Project Overview
+## Project Overview
 
 **DB-Engine** is a custom-built, lightweight database engine developed in **Java** that incorporates **octree indexing** to enhance the performance of data retrieval, especially for spatial and multi-dimensional queries. The engine is designed to support large datasets with a focus on speed, scalability, and data integrity.
 
-## ⚙️ Technologies & Concepts
+## Technologies & Concepts
 
 - **Java SE** – Core programming and cross-platform compatibility
 - **Octree Data Structures** – Efficient indexing and spatial query handling
@@ -18,16 +18,16 @@
 - **Object-Oriented Programming (OOP)** – Modular design for extensibility
 - **Unit Testing** – Comprehensive tests for data integrity and indexing accuracy
 
-## 🚀 Key Features
+## Key Features
 
-- ✅ Support for inserting, updating, deleting, and querying data  
-- 🧠 Efficient **Octree indexing** on 3-column combinations to optimize spatial queries  
-- 📈 Performance benchmarking tools to compare indexing strategies  
-- 🔍 Query parser with basic optimization techniques  
-- 🛡️ Built-in data integrity checks for safe storage and retrieval  
-- 🧪 Extensive testing for scalability and speed across large datasets
+- Support for inserting, updating, deleting, and querying data  
+- Efficient **Octree indexing** on 3-column combinations to optimize spatial queries  
+- Performance benchmarking tools to compare indexing strategies  
+- Query parser with basic optimization techniques  
+- Built-in data integrity checks for safe storage and retrieval  
+- Extensive testing for scalability and speed across large datasets
 
-## 📊 Benchmarking & Performance
+## Benchmarking & Performance
 
 We conducted tests using multiple datasets and query workloads, comparing:
 - **Octree indexing** vs. traditional linear scans
